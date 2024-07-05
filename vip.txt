@@ -16,7 +16,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
-      "jar": "./hx.jar",
+      "jar": "./jiazi.jar",
       "ext": {
         "请求头": "手机",
         "发布页": "https://www.cdnkan.top/",
