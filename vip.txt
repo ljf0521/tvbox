@@ -54,7 +54,7 @@
       "name":"XBPQ",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "./custom_spider.jar"
+      "jar": "./custom_spider.jar",
       "ext":{
         "分类url":"https://www.jialihotel.cn/s/{cateId}/page/{catePg}/year/{year}.html",
         "图片":"data-original=\"&&\"",
