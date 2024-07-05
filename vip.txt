@@ -20,7 +20,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://codeberg.org/a6725666/01/src/master/49d19797d8ad65c5cdd2247b49ab22bee87cea41/lib/TVB%E4%BA%91%E6%92%AD.json",
-			"jar": "https://codeberg.org/a6725666/01/src/master/ee35d90f220ecabb9e8b2275cec26dcca491c227/jar/hx.jar"
+			"jar": "./hx.jar"
 		},
 	{
 			"key": "saohuo",
