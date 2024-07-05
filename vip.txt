@@ -5,7 +5,7 @@
             "key": "js_豆瓣热播",
             "name": "大明帝国",
             "type": 3,
-            "api": "./api/api.js",
+            "api": "./api/Api.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
