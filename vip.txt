@@ -1,5 +1,5 @@
 {
-	"spider": "./hx.jar",
+	"spider": "./jiazi.jar",
 	"sites": [
 		{
 			"key": "douban",
