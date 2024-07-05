@@ -25,16 +25,17 @@
 
 {
       "key": "zxzj",
-      "name": "在线之家",
+      "name": "在线🍊外剧",
       "type": 3,
       "api": "csp_Zxzj",
+      "jar": "./fan.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzja.com/",
-	  "jar": "./fan.txt"
+      "ext": "https://www.zxzja.com/"
     },
+
 	  {
       "key": "Auete",
       "name": "Auete",
