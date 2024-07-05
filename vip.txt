@@ -19,7 +19,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://codeberg.org/a6725666/01/src/master/49d19797d8ad65c5cdd2247b49ab22bee87cea41/lib/TVB%E4%BA%91%E6%92%AD.json",
+			"ext": "/lib/TVB云播.json",
 			"jar": "./hx.jar"
 		},
 	{
