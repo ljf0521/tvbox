@@ -1,16 +1,15 @@
 {
-	"spider": "https://gitee.com/a6725666/tvbox/raw/master/hx.jar",
+	"spider": "./jiazi.jar",
 	"sites": [
 		{
-            "key": "js_豆瓣热播",
-            "name": "大明帝国",
-            "type": 3,
-            "api": "./api/Api.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "./js/Doubanrebo.js"
-        },
+			"key": "douban",
+			"name": "大明帝国",
+			"type": 3,
+			"api": "csp_Douban",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1
+		},
 		
 	{
 			"key": "csp_TVB",
