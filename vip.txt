@@ -1,5 +1,5 @@
 {
-	"spider": "./jiazi.jar",
+	"spider": "./hx.jar",
 	"sites": [
 		{
             "key": "js_豆瓣热播",
