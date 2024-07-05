@@ -33,7 +33,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzja.com/",
-	  "jar": "./gd5ic01b6d4922692401eac6018178d033d06"
+	  "jar": "https://gitee.com/a6725666/tvbox/raw/master/fan.txt"
     },
 	  {
       "key": "Auete",
