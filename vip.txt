@@ -1,5 +1,5 @@
 {
-	"spider": "./hx.jar",
+	"spider": "https://gitee.com/a6725666/tvbox/raw/master/hx.jar",
 	"sites": [
 		{
             "key": "js_豆瓣热播",
