@@ -24,7 +24,7 @@
 		},
 	{
 			"key": "saohuo",
-			"name": "🔥1080P┃骚火",
+			"name": "1080P┃骚火",
 			"type": 3,
 			"searchable": 1,
 			"changeable": 0,
