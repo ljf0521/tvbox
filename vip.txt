@@ -19,7 +19,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "/lib/TVB云播.json",
+			"ext": "./lib/TVB%E4%BA%91%E6%92%AD.json",
 			"jar": "./hx.jar"
 		},
 	{
