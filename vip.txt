@@ -3,7 +3,7 @@
 	"sites": [
 		{
 			"key": "douban",
-			"name": "大明",
+			"name": "大明帝国",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 1,
@@ -33,7 +33,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzja.com/",
-	  "jar": "https://gitee.com/a6725666/tvbox/raw/master/fan.txt"
+	  "jar": "./fan.txt"
     },
 	  {
       "key": "Auete",
