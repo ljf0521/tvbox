@@ -49,6 +49,22 @@
       "ext": "https://auete.pro/",
 	 "jar": "./gd5ic01b6d4922692401eac6018178d033d06"
 	 },
+     {
+      "key":"9527",
+      "name":"🚀9527┃XBPQ",
+      "type":3,
+      "api":"csp_XBPQ",
+      "ext":{
+        "分类url":"https://www.jialihotel.cn/s/{cateId}/page/{catePg}/year/{year}.html",
+        "图片":"data-original=\"&&\"",
+        "标题":"<a class=\"fed-list-title*>&&</a>",
+        "副标题":"<span class=\"fed-list-remarks*>&&</span>",
+        "链接":"href=\"&&\"",
+        "线路数组":"class=\"fed-drop-btns*>&&</li>",
+        "线路标题":">&&</a>",
+        "分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
+      }
+    },
 	{
 			"key": "saohuo",
 			"name": "1080P┃骚火",
