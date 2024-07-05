@@ -3,21 +3,14 @@
 	"sites": [
 		{
 			"key": "douban",
-			"name": "大明",
+			"name": "大明帝国",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1
 		},
-		{    
-      "key": "忆梦影视",
-      "name": "️忆梦影视",
-      "type": 1,
-      "api": "https://www.gnpt.net/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+		
 	{
 			"key": "csp_TVB",
 			"name": "💕TVB云播",
