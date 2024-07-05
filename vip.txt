@@ -22,6 +22,31 @@
 			"ext": "./lib/TVB%E4%BA%91%E6%92%AD.json",
 			"jar": "./hx.jar"
 		},
+
+{
+      "key": "zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzja.com/",
+	  "jar": "./gd5ic01b6d4922692401eac6018178d033d06"
+    },
+	  {
+      "key": "Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/",
+	 "jar": "./gd5ic01b6d4922692401eac6018178d033d06"
+	 },
 	{
 			"key": "saohuo",
 			"name": "1080P┃骚火",
