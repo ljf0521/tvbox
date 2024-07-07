@@ -91,16 +91,7 @@
 			"ext": "./lib/TVB%E4%BA%91%E6%92%AD.json",
 			"jar": "./hx.jar"
 		},
-{
-			"key": "freeoks",
-			"name": "FreeOK | FH",
-			"type": 3,
-			"api": "csp_CandyMuj_freeok",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1，
-            "jar": "./custom_spider%20(1).jar"
-		},
+
 		
 {
       "key": "热播",
