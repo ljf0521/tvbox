@@ -91,7 +91,35 @@
 			"ext": "./lib/TVB%E4%BA%91%E6%92%AD.json",
 			"jar": "./hx.jar"
 		},
-
+{
+			"key": "freeoks",
+			"name": "FreeOK | FH",
+			"type": 3,
+			"api": "csp_CandyMuj_freeok",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1
+		},
+		{
+			"key": "freeok2",
+			"name": "FreeOK | XBPQ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "2",
+			"jar": "./xbpq%E6%96%B0%E7%89%88.jar",
+			"ext": {
+				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+				"分类值": "1&2&3&4&12&5",
+				"副标题": "<div class=\"module-item-note\">&&</div>",
+				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+				"线路标题": "<span>&&</small>",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"简介": "<p>&&</p>"
+			}
+		},
 {
       "key": "热播",
       "name": "热播",
