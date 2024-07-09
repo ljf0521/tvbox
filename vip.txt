@@ -31,7 +31,37 @@
         "简介": "<p>&&</p>"
       }
     },
-       
+    {
+      "key": "vidhub",
+      "name": "🚀vid┃XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./custom_spider%20(1).jar",
+      "ext": {
+        "简介": "<span>&&</span>",
+        "嗅探词": ".mp4#.m3u8#.flv",
+        " 数组": "class=\"module-item-titlebox\">&&</div>",
+        "副标题": "module-item-text\">&&</div>",
+        "图片": "data-src=\"&&\"",
+        "线路数组": "data-dropdown-value&&</small>[不包含:主选五]",
+        "线路标题": "<span>&&[替换:</span><small>>>共]+集",
+        "分类url": "https://vidhub1.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+      {
+      "key": "akys",
+      "name": "🚀┃爱看影视",
+      "type": 3,
+      "api": "csp_Akys",
+      "searchable": 1,
+      "quickSearch": 0,
+      "jar": "./custom_spider%20(1).jar",
+      "filterable": 1
+    }, 
    {
       "key": "卫总影院",
       "name": "🚀卫总┃XBPQ",
