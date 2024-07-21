@@ -28,8 +28,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-       "jar": "./gd5ic01b6d4922692401eac6018178d033d06",
-      "changeable": 1
+      "changeable": 1,
+       "jar": "./gd5ic01b6d4922692401eac6018178d033d06"
     },
 
 
