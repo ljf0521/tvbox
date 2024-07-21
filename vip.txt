@@ -19,21 +19,8 @@
             "quickSearch": 1,
             "filterable": 0
         },
-         {
-      "key": "Zx4k",
-      "name": "🚝专线┃秒播",
-      "type": 3,
-      "api": "csp_Zx4k",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-       "jar": "./gd5ic01b6d4922692401eac6018178d033d06"
-    },
-
-
-        {
+        
+ {
             "key": "冬瓜",
             "name": "┃冬瓜影视┃秒播",
             "type": 3,
