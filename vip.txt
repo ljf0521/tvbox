@@ -28,7 +28,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-       "jar": "./fan.txt",
+       "jar": "./XBPQ_0614_%E9%BB%98%E8%AE%A4%E5%BC%80%E5%90%AF%E7%AD%9B%E9%80%89%E6%8D%A2%E8%A1%8C.jar",
       "changeable": 1
     },
 
