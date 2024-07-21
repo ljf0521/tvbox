@@ -32,8 +32,20 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {"key": "Lib","name": "🇹┃立播夸克┃4K","type": 3,"jar": "./lib/fty.jar","api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,
-"ext": {"quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd"}},
+        {
+            "key": "Lib",
+            "name": "🇹┃立播夸克┃4K",
+            "type": 3,
+            "jar": "./lib/fty.jar",
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
         {
             "key": "酷看影视",
             "name": "🍗酷看",
