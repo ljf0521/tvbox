@@ -1440,6 +1440,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 黑龙江卫视 Max16M1080,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1754506897_714399677/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 
 江苏电信,#genre#
+
 CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
