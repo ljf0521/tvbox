@@ -33,9 +33,6 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 🌙卫视频道🌙,#genre#
 
 
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -738,7 +735,6 @@ CCTV-14 少儿,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/8
 CCTV-15 音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-16 奥林,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-17 农业,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-
 CCTV-4K超清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV-8K超清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CCTV-01 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
@@ -759,11 +755,8 @@ CCTV-14 少儿,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/8
 CCTV-15 音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-16 奥林,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV-17 农业,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-
 CCTV-4K超清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV-8K超清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-
-
 CCTV-01 综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV-02 财经,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 CCTV-03 综艺,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
@@ -1446,4 +1439,20 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 黑龙江卫视HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw516667270_434053295/ott.mobaibox.com/PLTV/3/224/3221228295/index.m3u8?icpid=3&RTS=1674380632&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 黑龙江卫视 Max16M1080,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1754506897_714399677/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1674386164&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 
+江苏电信,#genre#
+CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
+CCTV2,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
+CCTV3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
+CCTV4,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8
+CCTV5,http://58.220.219.14:9901/tsfile/live/0005_1.m3u8
+CCTV6,http://58.220.219.14:9901/tsfile/live/0006_1.m3u8
+CCTV7,http://58.220.219.14:9901/tsfile/live/0007_1.m3u8
+CCTV8,http://58.220.219.14:9901/tsfile/live/0008_1.m3u8
+CCTV9,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8
+CCTV10,http://58.220.219.14:9901/tsfile/live/0010_1.m3u8
+CCTV11,http://58.220.219.14:9901/tsfile/live/0011_1.m3u8
+CCTV12,http://58.220.219.14:9901/tsfile/live/0012_1.m3u8
+CCTV13,http://58.220.219.14:9901/tsfile/live/0013_1.m3u8
+CCTV14,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8
+CCTV15,http://58.220.219.14:9901/tsfile/live/0015_1.m3u8
 
