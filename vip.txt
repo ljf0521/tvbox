@@ -27,6 +27,16 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
+        {"key":"360影视",
+        "name":"🇹┃370 官源┃秒播",
+        "type":3,
+        "ua": "okhttp/3.15",
+        "api":"csp_SP360",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "changeable":0
+        },
 
 		{
 			"key": "冬瓜",
