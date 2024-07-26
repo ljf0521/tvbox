@@ -165,16 +165,7 @@
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
-		{
-			"key": "akys",
-			"name": "🚀┃爱看影视",
-			"type": 3,
-			"api": "csp_Akys",
-			"searchable": 1,
-			"quickSearch": 0,
-			"jar": "./custom_spider%20(1).jar",
-			"filterable": 1
-		},
+		
 		{
 			"key": "卫总影院",
 			"name": "🚀卫总┃XBPQ",
