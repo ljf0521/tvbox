@@ -28,6 +28,31 @@
         "filterable":1,
         "changeable":0
         },
+        {
+            "key": "飞流",
+            "name": "1⃣️飞流┃视频┃速播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"mr-2 break-all line-clamp-3&&</div>",
+                "搜索url": "https://www.flixflop.com/results?q={q}",
+                "搜索模式": "1",
+                "搜索数组": "<a class=\"xeerELw&&xE6iANX",
+                "搜索图片": "<img src=\"&&\"",
+                "搜索标题": "<a class=\"xrIoPJE&&</a>",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "text-base mui-1q2h7u5\"&&</button>",
+                "线路标题": "飞流快播",
+                "播放数组": "xBwXv89\"&&xFo5MnU",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "分类url": "https://www.flixflop.com/explore/{cateId}?page={catePg}&area={area}&genre={class}&year={year}&language={lang}&sort={by}",
+                "分类": "电影$151438147786375168#电视剧$151438147794763777#动漫$151438147807346690#综艺$151438147807346691#体育$151438147807346693#电影解说$204814944317734918#短剧$331153971999670710"
+            }
+        },
 
 		{
 			"key": "冬瓜",
