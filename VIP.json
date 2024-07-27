@@ -18,6 +18,32 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
+         {
+            "key": "五一影院",
+            "name": "五一┃影院",
+            "type": 1,
+            "api": "http://www.51zhuiju.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "综艺节目",
+                "樱花动漫",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "海外剧",
+                "电影解说"
+            ]
+        }, 
+
 		{
 			"key": "量子",
 			"name": "独享1",
