@@ -20,7 +20,7 @@
 		},
 		{
 			"key": "量子",
-			"name": "🔥独享1",
+			"name": "独享1",
 			"type": 0,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
 			"searchable": 1,
@@ -29,7 +29,7 @@
 		},
 		{
 			"key": "剧圈圈",
-			"name": "🔥独享2",
+			"name": "独享2",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -40,7 +40,7 @@
 		},
 		{
 			"key": "csp_优质",
-			"name": "🔥独享3",
+			"name": "独享3",
 			"type": 1,
 			"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ",
 			"searchable": 1,
@@ -50,7 +50,7 @@
 		},
 		{
 			"key": "速博资源",
-			"name": "🔥独享4",
+			"name": "独享4",
 			"type": 1,
 			"api": "https://subocaiji.com/api.php/provide/vod/",
 			"playUrl": "",
@@ -60,7 +60,7 @@
 		},
 		{
 			"key": "🔥看RARBT",
-			"name": "🔥线路②",
+			"name": "线路②",
 			"type": 3,
 			"api": "csp_Rarbt",
 			"searchable": 1,
