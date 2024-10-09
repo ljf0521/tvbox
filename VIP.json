@@ -392,17 +392,7 @@
         "电影解说"
       ]
     },
-    {
-      "key": "360影视",
-      "name": "┃360 官源┃秒播",
-      "type": 3,
-      "ua": "okhttp/3.15",
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
+    
     {
       "key": "冬瓜",
       "name": "┃冬瓜影视┃秒播",
