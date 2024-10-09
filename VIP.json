@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/a6725666/tvbox/raw/jiazi.jar?ref=master",
+  "spider": "./jiazi.jar",
   "sites": [
     {
       "key": "douban",
@@ -10,18 +10,7 @@
       "quickSearch": 0,
       "filterable": 1
     },
-    {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCz",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czys.pro/"
-    },
+    
     {
       "key": "Biliych",
       "name": "🅱明星┃演唱会",
@@ -132,30 +121,7 @@
       "ext": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/a6725666/tvbox/raw/A8.json?ref=master",
       "jar": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/a6725666/tvbox/raw/XYQ_0430_1.jar?ref=master"
     },
-    {
-      "key": "✨XXTV✨",
-      "name": "✨小熊TV✨乐哥甄选✨",
-      "type": 3,
-      "jar": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/a6725666/tvbox/raw/xbpq%E6%96%B0%E7%89%88.jar?ref=master",
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.xxystv.top/",
-        "数组": "thumb hl-lazy&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "副标题": "✨乐哥推荐✨+remarks\">&&</span>",
-        "线路数组": "hl-tabs-btn hl-slide&&</a>",
-        "线路标题": "✨乐哥推荐✨+alt=\"&&\"",
-        "播放数组": "id=\"hl-plays-list\"&&</ul>",
-        "播放标题": "✨+html\">&&<",
-        "简介": "✨指尖的黑客为您介绍剧情✨+简介：&&</li>",
-        "搜索url": "https://www.xxystv.top/vod/search/page/{pg}/wd/{wd}.html",
-        "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$5"
-      }
-    },
-    {
+      {
       "key": "csp_优质",
       "name": "🔥优质┃切片",
       "type": 1,
