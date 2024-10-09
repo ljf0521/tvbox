@@ -10,7 +10,32 @@
       "quickSearch": 0,
       "filterable": 1
     },
-    
+  {"key": "农民采集","name": "悯农","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
+    {"key":"fxz欢视","name":"欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+    {"key":"csp_Jpys","name":"金牌",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片地区": "大明",
+                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+            }
+        },
+    {
+      "key": "csp_yiq",
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {"线路标题":"大明接口+src=*>&&<[替换:线路1>>分享者接口1#线路2>>分享者接口2#线路3>>分享者接口3#线路4>>分享者接口4#线路5>>分享者接口5#线路6>>分享者接口6]","分类url":"https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值":"dianying&lianxuju&zongyi&dongman"}
+    },
     {
       "key": "Biliych",
       "name": "🅱明星┃演唱会",
@@ -74,7 +99,7 @@
       "changeable": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700"
     },
-    
+   
     {
       "key": "追风资源",
       "name": "💎追风采集",
@@ -112,7 +137,8 @@
       "ext": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/a6725666/tvbox/raw/A8.json?ref=master",
       "jar": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/a6725666/tvbox/raw/XYQ_0430_1.jar?ref=master"
     },
-      {
+   
+    {
       "key": "csp_优质",
       "name": "🔥优质┃切片",
       "type": 1,
@@ -392,7 +418,17 @@
         "电影解说"
       ]
     },
-    
+    {
+      "key": "360影视",
+      "name": "┃360 官源┃秒播",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
     {
       "key": "冬瓜",
       "name": "┃冬瓜影视┃秒播",
@@ -1698,4 +1734,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
-}
+}			
