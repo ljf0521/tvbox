@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/a6725666/tvbox/raw/master/jiazi.jar",
+  "spider": "./jiazi.jar",
   "sites": [
     {
       "key": "douban",
