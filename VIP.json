@@ -26,6 +26,17 @@
                 "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
             }
         },
+        {
+      "key": "贱贱",
+      "name": "🐭贱贱 | P2P",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+    },
     {
       "key": "csp_yiq",
       "name": "一起看",
@@ -68,15 +79,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
     },
-    {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
+    
     {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
