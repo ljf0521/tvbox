@@ -11,6 +11,47 @@
       "filterable": 1
     },
   {"key": "农民采集","name": "悯农","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
+  {
+      "key": "cjzy_暴风资源",
+      "name": "┃暴风┃1080P",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
+        "科幻片",
+        "喜剧片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "卧龙资源",
+      "name": "📺︎┃卧龙┃1080P",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar":"http://router.bopop.buzz:9999/viplib/yydf",
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "恐怖片",
+        "动作片"
+      ]
+    },
     
  {"key":"csp_Jpys","name":"金牌",
             "type": 3,
