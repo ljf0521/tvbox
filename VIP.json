@@ -11,8 +11,8 @@
       "filterable": 1
     },
   {"key": "农民采集","name": "悯农","type": 1,"api": "https://www.xncnews.com/api.php/provide/vod/"},
-    {"key":"fxz欢视","name":"欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar","ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
-    {"key":"csp_Jpys","name":"金牌",
+    
+ {"key":"csp_Jpys","name":"金牌",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -60,17 +60,7 @@
       "api": "http://23.224.49.51:60/api.php?key=554433811&id=id99",
       "playUrl": "json:http://23.224.49.51:60/json.php/?key=554433811&url="
     },
-    {
-      "key": "贱贱",
-      "name": "🐭贱贱 | P2P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-    },
+    
     {
       "key": "drpy_js_奇优影院",
       "name": "🌈影院 | 奇优",
