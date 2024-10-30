@@ -477,7 +477,7 @@
       "name": "文采",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://gitee.com/a6725666/tvbox/raw/master/custom_spider.jar",
+      "jar": "./custom_spider.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
