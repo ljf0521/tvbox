@@ -38,40 +38,9 @@
 		"api": "csp_XBPQ",
 		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/4kvm.json"
 	},
-	{
-		"key": "XYQH_电影港",
-		"name": "影港",
-		"type": 3,
-		"api": "csp_XYQHikerAL",
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XYQHiker/电影港.json"
-	},
-		{
-            "key": "比特",
-            "name": "⚽比特┃超清┃快播",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "jar": "https://cdn09022024.gitlink.org.cn/a6725666/tvbox/raw/branch/master/fanou.txt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-		{"key":"csp_SixV",
-		"name":"💕6V电影网(磁力)",
-		"type":3,"api":"csp_SixV",
-		"searchable":1, 
-		"ext": "https://www.6vdy.org/"
-		},
-		{
-      "key": "AI2",
-      "name": "AI2┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="
-    },
+	
+		
+	
 	
 	 {
       "key": "AI4",
@@ -95,29 +64,8 @@
 	   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386439078/okjpg.txt;md5;4b6b5f2b8210c4e239007d0e49558fce",
       "timeout": 10
     },
-    {
-      "key": "文才",
-      "name": "🌺文才┃在线",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386439078/okjpg.txt;md5;4b6b5f2b8210c4e239007d0e49558fce",
-      "timeout": 10
-    },
- {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386439078/okjpg.txt;md5;4b6b5f2b8210c4e239007d0e49558fce",
-      "timeout": 10
-    },
-
+   
+ 
 
 
 		{
@@ -129,27 +77,8 @@
             "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
         },
-		{
-            "key": "🌟客星",
-            "name": "🌟客星┃1080P",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 2,
-            "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
-        },
-		{
-            "key": "guoguo",
-            "name": "🌞果果┃解析",
-            "type": 3,
-            "api": "http://xmran.fun/drpy_libs/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-        },
+		
+		
 		{
 		"key": "XBPQ_98影视",
 		"name": "🍸酒吧┃影视",
@@ -363,12 +292,7 @@
 			"jar": "https://gitee.com/zyang0422/bd/raw/master/jar/xm.jar",
 			"ext": "https://www.wwgz.cn/"
 		},
-		{
-			"key": "农民采集",
-			"name": "悯农",
-			"type": 1,
-			"api": "https://www.xncnews.com/api.php/provide/vod/"
-		},
+		
 		
 		{
 			"key": "星辰xBPQ",
@@ -530,68 +454,8 @@
 			"searchable": 1,
 			"changeable": 1
 		},
-		{
-			"key": "皇冠影视",
-			"name": "💎皇冠快播",
-			"type": 1,
-			"api": "https://hong.hgyx.vip/api.php/provide/vod/"
-		},
-	
-		{
-			"key": "csp_XYQHiker_A8",
-			"name": "A8多线",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./A8.json",
-			"jar": "./XYQ_0430_1.jar"
-		},
-
-		{
-			"key": "csp_优质",
-			"name": "🔥优质┃切片",
-			"type": 1,
-			"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"奇幻片",
-				"恐怖片",
-				"灾难片",
-				"悬疑片",
-				"爱情片",
-				"战争片",
-				"纪录片",
-				"动画电影",
-				"大陆剧",
-				"欧美剧",
-				"港澳剧",
-				"韩剧",
-				"泰剧",
-				"台湾剧",
-				"日剧",
-				"海外剧",
-				"动画片",
-				"动漫",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"搞笑",
-				"音乐"
-			]
-		},
+		
+		
 		
 		{
 			"key": "csp_SeedHub",
@@ -676,84 +540,8 @@
 				"斯克"
 			]
 		},
-		{
-			"key": "柠檬影院",
-			"name": "🌠柠檬┃影院",
-			"type": 1,
-			"api": "https://www.nmnm.cc/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"国产剧",
-				"港剧",
-				"台剧",
-				"日剧",
-				"韩剧",
-				"泰剧",
-				"美剧",
-				"海外剧",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"奇幻片",
-				"犯罪片",
-				"悬疑片",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫"
-			]
-		},
-		{
-			"key": "csp_优质",
-			"name": "独享3",
-			"type": 1,
-			"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"奇幻片",
-				"恐怖片",
-				"灾难片",
-				"悬疑片",
-				"爱情片",
-				"战争片",
-				"纪录片",
-				"动画电影",
-				"大陆剧",
-				"欧美剧",
-				"港澳剧",
-				"韩剧",
-				"泰剧",
-				"台湾剧",
-				"日剧",
-				"海外剧",
-				"动画片",
-				"动漫",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"搞笑",
-				"音乐"
-			]
-		},
+		
+		
 		{
 			"key": "速博资源",
 			"name": "独享4",
@@ -786,31 +574,7 @@
 				"港台动漫"
 			]
 		},
-		{
-			"key": "五一影院",
-			"name": "五一┃影院",
-			"type": 1,
-			"api": "http://www.51zhuiju.cc/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"综艺节目",
-				"樱花动漫",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"国产剧",
-				"港台剧",
-				"日韩剧",
-				"欧美剧",
-				"海外剧",
-				"电影解说"
-			]
-		},
+		
 		{
 			"key": "360影视",
 			"name": "┃360 官源┃秒播",
@@ -921,93 +685,7 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		{
-			"key": "zy_iKun资源",
-			"name": "iKun资源|极速",
-			"type": 1,
-			"api": "https://ikunzyapi.com/api.php/provide/vod/",
-			"jar": "./lib/custom_spider.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": [
-				"国产剧",
-				"香港剧",
-				"记录片",
-				"大陆综艺",
-				"港台综艺",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"惊悚片",
-				"家庭片",
-				"古装片",
-				"历史片",
-				"悬疑片",
-				"犯罪片",
-				"灾难片",
-				"短片",
-				"动画片",
-				"韩国剧",
-				"欧美剧",
-				"台湾剧",
-				"日本剧",
-				"海外剧",
-				"泰国剧",
-				"日韩综艺",
-				"欧美综艺",
-				"国产动漫",
-				"欧美动漫",
-				"日本动漫"
-			]
-		},
-		{
-			"key": "csp_xml_ikun",
-			"name": "爱坤🐔蓝光",
-			"type": 1,
-			"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": 2,
-			"categories": [
-				"国产剧",
-				"韩国剧",
-				"泰国剧",
-				"欧美剧",
-				"香港剧",
-				"台湾剧",
-				"日本剧",
-				"海外剧",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"犯罪片",
-				"惊悚片",
-				"古装片",
-				"灾难片",
-				"历史片",
-				"其他片",
-				"悬疑片",
-				"奇幻片",
-				"动画片",
-				"欧美综艺"
-			]
-		},
+		
 		{
 			"key": "量子资源",
 			"name": "量子🥑蓝光",
