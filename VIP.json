@@ -1,5 +1,5 @@
 {
-	"spider": "./jiazi.jar",
+	"spider": "./hx.jar",
 	"sites": [{
 			"key": "douban",
 			"name": "大明帝国",
