@@ -16,6 +16,20 @@
             "api": "csp_XBPQ",
             "ext": "./lib/4kvm.json"
         },
+        {
+            "key": "csp_New6v",
+            "name": "🆕新6V┃慎用",
+            "type": 3,
+            "api": "csp_New6v",
+            "ext": "https://www.xb6v.com"
+        },
+        {
+            "key": "XYQH_电影港",
+            "name": "🏠影港┃慎用",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "ext": "./lib/电影港.json"
+        },
 		{
 			"key": "pgys",
 			"name": "苹果┃蓝天日记",
