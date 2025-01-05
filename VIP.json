@@ -10,7 +10,7 @@
 			"filterable": 1
 		},
 
-            "key": "XBPQ_4kvm",
+          {  "key": "XBPQ_4kvm",
             "name": "🥭五楼┃影视",
             "type": 3,
             "api": "csp_XBPQ",
