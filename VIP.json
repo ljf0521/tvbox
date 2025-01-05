@@ -38,18 +38,9 @@
 		"分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
 	}
 },
-{
-		"key": "XBPQ_4kvm",
-		"name": "🥭五楼┃影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/4kvm.json"
-	},
+
 	
-		
-	
-	
-	 {
+ {
       "key": "AI4",
       "name": "AI4┃APP",
       "type": 3,
