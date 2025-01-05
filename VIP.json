@@ -28,7 +28,7 @@
             "name": "🏠影港┃慎用",
             "type": 3,
             "api": "csp_XYQHikerAL",
-            "ext": "./lib/电影港.json"
+            "ext": "./lib/%E7%94%B5%E5%BD%B1%E6%B8%AF.json"
         },
 		{
 			"key": "pgys",
