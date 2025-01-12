@@ -19,6 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
             "ext": "https://www.czzyvideo.com/"
         },
         
