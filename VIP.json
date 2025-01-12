@@ -43,6 +43,13 @@
       "api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
       "ext": "https://gitee.com/a6725666/tvbox/raw/master/js/%E7%9A%AE%E7%9A%AE%E8%99%BE.js"
     },
+    {
+      "key": "轻风细雨",
+      "name": "轻风细雨｜4k弹幕",
+      "type": 3,
+      "api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
+      "ext": "./JS/腾讯弹幕.js"
+    },
         
 {
             "key": "XBPQ_4kvm",
