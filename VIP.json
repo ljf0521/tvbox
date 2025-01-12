@@ -23,16 +23,7 @@
             "ext": "https://www.czzyvideo.com/"
         },
 
-        {
-            "key": "ppx4k",
-            "name": "皮皮虾米｜4K纯净",
-            "type": 3,
-            "playerType": 2,
-            "api": "./js/drpy2.min.js",
-             "ext": "./js/%E7%9A%AE%E7%9A%AE%E8%99%BE.js"
-        },
-        
-        {
+ {
             "key": "热播",
             "name": "📺热播┃多线",
             "type": 3,
@@ -44,6 +35,14 @@
              "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
             "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
+        {
+      "key": "ppx4k",
+      "name": "皮皮虾米｜4K纯净",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
+      "ext": "https://gitee.com/a6725666/tvbox/raw/master/js/%E7%9A%AE%E7%9A%AE%E8%99%BE.js"
+    },
         
 {
             "key": "XBPQ_4kvm",
