@@ -22,6 +22,7 @@
             "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
             "ext": "https://www.czzyvideo.com/"
         },
+        {"key":"酷酷","name":"酷酷┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar": "https://gitee.com/yuan301/tv/raw/master/jar/qi.jar;md5;68959abc51dbfcba14fb08d537dbf230"},
         {
       "key": "gzys3",
       "name": "瓜子┃影视",
