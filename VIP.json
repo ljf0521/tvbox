@@ -22,6 +22,13 @@
             "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
             "ext": "https://www.czzyvideo.com/"
         },
+        {
+      "key": "gzys3",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Guazi",
+      "jar": "https://lz.qaiu.top/d/lz/ihuZV2kj97ng",
+    },
          {
       "key": "ppxys",
       "name": "皮皮┃影视",
