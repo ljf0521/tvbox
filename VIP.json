@@ -28,7 +28,7 @@
             "name": "皮皮虾米｜4K纯净",
             "type": 3,
             "playerType": 2,
-            "api": "https://gitee.com/a6725666/tvbox/raw/master/js/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
              "ext": "./js/%E7%9A%AE%E7%9A%AE%E8%99%BE.js"
         },
         
