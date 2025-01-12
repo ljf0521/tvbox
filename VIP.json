@@ -29,6 +29,7 @@
             "type": 3,
             "playerType": 2,
             "api": "https://gitee.com/a6725666/tvbox/raw/master/js/drpy2.min.js ",
+            "jar": "https://gitee.com/a6725666/tvbox/raw/master/spider.txt",
             "ext": "https://gitee.com/a6725666/tvbox/raw/master/js/%E7%9A%AE%E7%9A%AE%E8%99%BE.js"
         },
         
