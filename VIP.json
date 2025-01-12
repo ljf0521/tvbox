@@ -22,6 +22,18 @@
             "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
             "ext": "https://www.czzyvideo.com/"
         },
+        {
+            "key": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+             "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+        },
         
 {
             "key": "XBPQ_4kvm",
