@@ -43,12 +43,15 @@
       "api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
       "ext": "https://gitee.com/a6725666/tvbox/raw/master/js/%E7%9A%AE%E7%9A%AE%E8%99%BE.js"
     },
-    {
-      "key": "轻风细雨",
-      "name": "轻风细雨｜4k弹幕",
+     {
+      "key": "csp_Wwys",
+      "name": "🍄汪汪",
       "type": 3,
-      "api": "https://gitee.com/lanny520/study/raw/master/JS/drpy2.min.js",
-      "ext": "https://gitee.com/a6725666/tvbox/raw/master/js/%E8%85%BE%E8%AE%AF%E5%BC%B9%E5%B9%95.js"
+      "playerType": 1,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "jar": "https://gitee.com/zyang0422/bd/raw/master/jar/xm.jar",
+      "ext": "https://www.wwgz.cn/"
     },
         
 {
