@@ -39,6 +39,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
+      "jar": "./BH250111.jar",
       "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
     {
@@ -47,6 +48,7 @@
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
+      "jar": "./BH250111.jar",
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
         {"key":"酷酷","name":"酷酷┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar": "https://gitee.com/yuan301/tv/raw/master/jar/qi.jar;md5;68959abc51dbfcba14fb08d537dbf230"},
