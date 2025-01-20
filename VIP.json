@@ -31,6 +31,23 @@
       "jar": "./ihuZV2kj97ng"
       
     },
+    {
+   "api": "csp_AI",
+   "categories": null,
+   "click": null,
+   "ext": "faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk=",
+   "filterable": 0,
+   "hide": -1,
+   "jar": null,
+   "key": "AI2",
+   "name": "磁力仅搜",
+   "playerType": 2,
+   "playerUrl": null,
+   "quickSearch": 1,
+   "searchable": 1,
+   "type": 3,
+   "status": 1
+  },
          {
       "key": "ppxys",
       "name": "皮皮┃影视",
