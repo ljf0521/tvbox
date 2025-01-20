@@ -484,19 +484,7 @@
 				"分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
 			}
 		},
-		{
-			"key": "csp_JPYY",
-			"name": "金牌┃影视",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"api": "csp_Jpyy",
-			"playerType": 1,
-			"filterable": 1,
-			"jar": "https://gitee.com/zyang0422/bd/raw/master/jar/xm.jar",
-			"ext": ""
-		},
-
+		
 		{
 			"key": "csp_yiq",
 			"name": "一起看",
