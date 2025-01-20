@@ -22,6 +22,33 @@
             "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
             "ext": "https://www.czzyvideo.com/"
         },
+         {
+      "key": "csp_Wwys",
+      "name": "农民伯伯",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736752647017/0113-4.jar;md5;6bd68323863c83157d6bf539faccacd4",
+      "ext": "https://www.wwgz.cn/"
+    },
+    {
+      "key": "剧评",
+      "name": "剧评纯净",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+    },
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶快播",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
         {"key":"酷酷","name":"酷酷┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==","jar": "https://gitee.com/yuan301/tv/raw/master/jar/qi.jar;md5;68959abc51dbfcba14fb08d537dbf230"},
         {
       "key": "gzys3",
