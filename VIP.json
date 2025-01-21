@@ -23,6 +23,18 @@
             "ext": "https://www.czzyvideo.com/"
         },
          {
+      "key": "原创",
+      "name": "原创",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar"
+    },
+         {
       "key": "iysdq",
       "name": "影院┃秒播",
       "type": 3,
