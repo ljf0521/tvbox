@@ -22,6 +22,15 @@
             "jar": "https://gitee.com/a6725666/tvbox/raw/master/fty.jar",
             "ext": "https://www.czzyvideo.com/"
         },
+		 {
+      "key": "csp_良人",
+      "name": "👨良人┃1080P",
+      "type": 3,
+      "quickSearch": 0,
+      "api": "csp_MiTuApp",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM=",
+      "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php"
+    },
          {
       "key": "原创",
       "name": "原创",
