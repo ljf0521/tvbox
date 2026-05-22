@@ -224,3 +224,5 @@ cctv5,http://221.7.175.154:85/tsfile/live/1018_1.m3u8?key=txiptv
 cctv5,http://198.204.228.26/live/cctv5hd.m3u8
 cctv5,http://183.186.118.103:85/tsfile/live/0015_1.m3u8?key=txiptv
 cctv5,http://183.186.118.103:85/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5,http://125.80.114.180:3005/641886683
+CCTV5,http://116.236.204.18:1234/641886683
