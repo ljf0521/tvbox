@@ -213,3 +213,14 @@ CCTV-12 SD,http://180.118.187.205:60001/tsfile/live/0012_1.m3u8?key=txiptv&playl
 CCTV-13,http://180.118.187.205:60001/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://180.118.187.205:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://180.118.187.205:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+央视频道,#genre#
+CCTV5,http://219.139.229.174:8686/rtp/239.254.96.234:9484
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
+cctv5,http://171.83.102.126:8880/rtp/239.69.1.123:10376
+cctv5,http://192.151.150.154/live/cctv5p.m3u8
+cctv5,http://221.7.175.154:85/tsfile/live/1018_1.m3u8?key=txiptv
+cctv5,http://198.204.228.26/live/cctv5hd.m3u8
+cctv5,http://183.186.118.103:85/tsfile/live/0015_1.m3u8?key=txiptv
+cctv5,http://183.186.118.103:85/tsfile/live/0005_1.m3u8?key=txiptv
