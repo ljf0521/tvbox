@@ -23,7 +23,7 @@
         },
 		 {
       "key": "天天",
-      "name": "天天|超速",
+      "name": "天天|部弹幕",
       "type": 3,
       "api": "csp_HBtiantianv3CAT",
       "jar": "https://raw.giteeusercontent.com/a6725666/tvbox/raw/master/custom_spider_cat.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjdXN0b21fc3BpZGVyX2NhdC5qYXIiLCJ1aWQiOjE0NjQ3MDU4LCJwaWQiOjM2ODUxNzg5LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMzUiLCJycCI6InJlcG9zLzQ4LzQxLzQ4NDE4ZWFhMzE3MmE3NzYyMzMzNjA5ZGM4MGY2ZDdlNmJhNzMzOTNiYjU1MzA5NTgyNGFlY2ExN2NhN2JmNWQuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3OTI1Nzc0MDB9&signature=NIps1-UFT9swhrThqZ8ULKTZ1VWLrbuqZJ_5uHbMhLU",
