@@ -22,33 +22,28 @@
             "changeable": 1
         },
         
-         {
+{
       "key": "HBJuDao",
       "api": "csp_HBJuDaoCAT",
       "name": "东厂|弹幕",
 	"jar": "https://raw.giteeusercontent.com/a6725666/tvbox/raw/master/custom_spider_cat.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjdXN0b21fc3BpZGVyX2NhdC5qYXIiLCJ1aWQiOjE0NjQ3MDU4LCJwaWQiOjM2ODUxNzg5LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMzUiLCJycCI6InJlcG9zLzQ4LzQxLzQ4NDE4ZWFhMzE3MmE3NzYyMzMzNjA5ZGM4MGY2ZDdlNmJhNzMzOTNiYjU1MzA5NTgyNGFlY2ExN2NhN2JmNWQuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3OTI1Nzc0MDB9&signature=NIps1-UFT9swhrThqZ8ULKTZ1VWLrbuqZJ_5uHbMhLU",
-      "ext": "http://v.rbotv.cn"
       "type": 3
     },
-  {
+   {
       "key": "luoxue",
       "api": "csp_HBLuoXueCAT",
       "name": "落雪|弹幕",
       "jar": "https://raw.giteeusercontent.com/a6725666/tvbox/raw/master/custom_spider_cat.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjdXN0b21fc3BpZGVyX2NhdC5qYXIiLCJ1aWQiOjE0NjQ3MDU4LCJwaWQiOjM2ODUxNzg5LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMzUiLCJycCI6InJlcG9zLzQ4LzQxLzQ4NDE4ZWFhMzE3MmE3NzYyMzMzNjA5ZGM4MGY2ZDdlNmJhNzMzOTNiYjU1MzA5NTgyNGFlY2ExN2NhN2JmNWQuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3OTI1Nzc0MDB9&signature=NIps1-UFT9swhrThqZ8ULKTZ1VWLrbuqZJ_5uHbMhLU",
       "type": 3
     },
-        {
-            "key": "橘子",
-            "name": "🍊橘子┃1080P",
-            "type": 3,
-            "api": "csp_AppGetV2",
-            "changeable": "1",
-            "timeout": 15,
-            "quickSearch": 0,
-            "jar": "https://gitee.com/a6725666/tvbox/raw/master/jar/spider1.jar",
-            "filterable": 1,
-            "ext": "7DgWlrk+zTw/OTxcOCwV3r7Lpk/K0TtaGVKJShO/E6LIk4jSxJZnpCtrE9eNmer0S76opF1k6B6YKqAJwj212o2hU9wsE9ttuYen2FA/GlkbRWsyH2zXHWs/KKOWHww2ZMBmduYPZRzKfLb8D3GMzxY6euqlI9dTjBCfeEkzDTQEykUO8SIPD9n6WPRbNIc0ef8Hr/WFZfBJEMNyzJ9ti0v9vbE2TuSODTTXU0K2wDEsAcVAjgmCEbmfGvoLy8ylr1OHFkjB4sfzjD9Wl+qHUANcPjPeJNjEhGsD3Dt30iTF7uL5Cwqd/2715JydiRfzdxgSK6HcO7F/VaXESPD9VkPeSWfbcRlPp9Nb2i54cFLXT9J0NcSz5e8RrhZQWOGfa3TkenTw6uIEu8Bj81kNYJeUionweCQ0q351zhprbR/hxY+14YcWyTzE76gFrhXUgCYbvO2JFckkjlq85jXByx+L7Srinf+k6vm3fMQ5Dk2I9ieK73ai8rp0fn9cGozcKZsB0JsdJdjdsMCA8VrxSbYFwBlQimwIHaavT2Fhpoc="
-        },
+     {
+      "key": "HBYiQi",
+      "api": "csp_HBYiQiCAT",
+      "name": "一起|弹幕",
+      "jar": "https://raw.giteeusercontent.com/a6725666/tvbox/raw/master/custom_spider_cat.jar?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJjdXN0b21fc3BpZGVyX2NhdC5qYXIiLCJ1aWQiOjE0NjQ3MDU4LCJwaWQiOjM2ODUxNzg5LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMzUiLCJycCI6InJlcG9zLzQ4LzQxLzQ4NDE4ZWFhMzE3MmE3NzYyMzMzNjA5ZGM4MGY2ZDdlNmJhNzMzOTNiYjU1MzA5NTgyNGFlY2ExN2NhN2JmNWQuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3OTI1Nzc0MDB9&signature=NIps1-UFT9swhrThqZ8ULKTZ1VWLrbuqZJ_5uHbMhLU",
+      "type": 3
+    },
+  
          
  {
       "key": "天天",
@@ -116,18 +111,7 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     
-       {
-            "key": "剧评", 
-            "name": "艾艾影视", 
-            "type": 3,    
-            "jar": "https://gitee.com/a6725666/tvbox/raw/master/jar/qji.jar",
-            "api": "csp_Jpys", 
-            "playerType": 1, 
-            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-        }, 
     
-    
- 
         {
 			"key": "88看球",
 			"name": "🏀看球┃直播",
@@ -224,45 +208,7 @@
       "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
  
-     
-     
-        
-  
-   {
-      "key": "瓜子",
-      "name": "🍉瓜子",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/a6725666/tvbox/raw/master/Yoursmile.jar"
-    },
-    
-		 
-
-        
-    {
-      "key": "剧评",
-      "name": "剧评纯净",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "jar": "https://gitee.com/a6725666/tvbox/raw/master/BH250111.jar",
-      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
-    },
-    
-        
-        {
-      "key": "gzys3",
-      "name": "瓜子┃影视",
-      "type": 3,
-      "api": "csp_Guazi",
-      "jar": "./ihuZV2kj97ng"
-      
-    },
-    
-
+   
         {
             "key": "csp_New6v",
             "name": "🆕新6V┃慎用",
@@ -277,7 +223,6 @@
             "api": "csp_XYQHikerAL",
             "ext": "./lib/%E7%94%B5%E5%BD%B1%E6%B8%AF.json"
         },
-		
 		
 
 	 {
