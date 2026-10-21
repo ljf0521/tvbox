@@ -22,17 +22,7 @@
             "changeable": 1
         },
         
-        {
-            "key": "天天",
-            "name": "🚀秒播｜影视",
-            "type": 3,
-            "quickSearch": 1,
-            "searchable": 1,
-            "api": "csp_AppRJ",
-            "timeout": 12,
-          "jar": "https://gitee.com/a6725666/tvbox/raw/master/xiaomi.jar", 
-            "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
-        },
+        
   
         {
             "key": "橘子",
@@ -46,17 +36,7 @@
             "filterable": 1,
             "ext": "7DgWlrk+zTw/OTxcOCwV3r7Lpk/K0TtaGVKJShO/E6LIk4jSxJZnpCtrE9eNmer0S76opF1k6B6YKqAJwj212o2hU9wsE9ttuYen2FA/GlkbRWsyH2zXHWs/KKOWHww2ZMBmduYPZRzKfLb8D3GMzxY6euqlI9dTjBCfeEkzDTQEykUO8SIPD9n6WPRbNIc0ef8Hr/WFZfBJEMNyzJ9ti0v9vbE2TuSODTTXU0K2wDEsAcVAjgmCEbmfGvoLy8ylr1OHFkjB4sfzjD9Wl+qHUANcPjPeJNjEhGsD3Dt30iTF7uL5Cwqd/2715JydiRfzdxgSK6HcO7F/VaXESPD9VkPeSWfbcRlPp9Nb2i54cFLXT9J0NcSz5e8RrhZQWOGfa3TkenTw6uIEu8Bj81kNYJeUionweCQ0q351zhprbR/hxY+14YcWyTzE76gFrhXUgCYbvO2JFckkjlq85jXByx+L7Srinf+k6vm3fMQ5Dk2I9ieK73ai8rp0fn9cGozcKZsB0JsdJdjdsMCA8VrxSbYFwBlQimwIHaavT2Fhpoc="
         },
-         {
-            "key": "天天",
-            "name": "💯秒播┃影视💯",
-            "type": 3,
-            "quickSearch": 1,
-            "searchable": 1,
-            "api": "csp_AppRJ",
-            "timeout": 12,
-            "jar": "https://gitee.com/a6725666/tvbox/raw/master/jar/spider1.jar",
-            "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
-        },
+         
  
     {
       "key": "🚨非凡2",
